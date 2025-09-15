@@ -84,7 +84,8 @@ By reducing repetitive tasks, MedBot allows healthcare workers to spend more tim
 ---
 
 ## References
-A full list of references can be found in the [proposal document]  
+A full list of references can be found in the [proposal document](https://github.com/aishacmohamed/MedBot/blob/main/docs/MedBot-Proposal.pdf)
+
 Notable sources include:
 - [Stanford Report: Tiny medical robots](https://news.stanford.edu/report/2022/06/14/stanford-engineers-develop-tiny-robots-bring-health-care-closer-precisely-targeted-drug-delivery/)
 - [PMC: Automated hospital pharmacy case study](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9234249/)
